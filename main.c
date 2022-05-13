@@ -1,5 +1,5 @@
-#include <stdio.h
->
+// Make conflict
+#include <stdio.h>
 #include "myheader.h
 "
 int main(void) {
